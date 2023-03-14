@@ -1,0 +1,20 @@
+{
+    "name":"native",
+    "version": "1.0.0",
+    "description": "this is a contact api service from odhe",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test",
+        "start": "npm start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fahmihidayatullah/ilt-cc2-ai.git"
+    },
+    "author": "Odhe",
+    "license": "HIT",
+    "bugs": {
+        "url": "https://github.com/fahmihidayatullah/ilt-cc2-ai/issues"
+    },
+    "homepage": "https://github.com/fahmihidayatullah/ilt-cc2-ai#readme"
+}
